@@ -1,0 +1,15 @@
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\bin\Debug\net8.0\3.(NombrePendiente).exe
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\bin\Debug\net8.0\3.(NombrePendiente).deps.json
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\bin\Debug\net8.0\3.(NombrePendiente).runtimeconfig.json
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\bin\Debug\net8.0\3.(NombrePendiente).dll
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\bin\Debug\net8.0\3.(NombrePendiente).pdb
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\obj\Debug\net8.0\3.(NombrePendiente).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\obj\Debug\net8.0\3.(NombrePendiente).AssemblyInfoInputs.cache
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\obj\Debug\net8.0\3.(NombrePendiente).AssemblyInfo.cs
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\obj\Debug\net8.0\3.(NombrePendiente).csproj.CoreCompileInputs.cache
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\obj\Debug\net8.0\3.(NombrePendiente).sourcelink.json
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\obj\Debug\net8.0\3.(NombrePendiente).dll
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\obj\Debug\net8.0\refint\3.(NombrePendiente).dll
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\obj\Debug\net8.0\3.(NombrePendiente).pdb
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\obj\Debug\net8.0\3.(NombrePendiente).genruntimeconfig.cache
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\3.(NombrePendiente)\3.(NombrePendiente)\obj\Debug\net8.0\ref\3.(NombrePendiente).dll
