@@ -14,15 +14,12 @@
             nombre = Console.ReadLine(); //todo lo que se lee desde la consola llega como un string
             Console.WriteLine("Ingrese el sueldo");
             sueldo = Convert.ToInt32(Console.ReadLine());
-            
-            if (sueldo>3000) 
+
+            if (sueldo > 3000)
             {
                 Console.WriteLine($"La persona {nombre}, debe abonar impuestos");
             }
-            if (sueldo<3000)
-            {
-                Console.WriteLine($"Ah bueno, {nombre}, todo bien.");
-            }
+            else { Console.WriteLine($"Tranqui {nombre}, no tiene que abonar"); }
 
             //*Crea un algoritmo que lea la edad de un usuario, si el usuario es mayor de 18, se debe mostrar el siguiente mensaje: "Bienvenido a mi sitio web".*/
 
@@ -35,7 +32,7 @@
             {
                 Console.WriteLine($"Bienvenido a mi sitio web");
             }
-
+            else { Console.WriteLine($"Paila bro, pa fuera"); }
 
         }
     }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\B15S301est\\Documents\\FundamentosProgramacion8AM\\3.(NombrePendiente)\\3.(NombrePendiente)\\3.(NombrePendiente).csproj": {}
+    "C:\\Users\\B09S305est\\Documents\\FundamentosProgramacion8AM\\3.Condicionales\\3.(NombrePendiente)\\3.(NombrePendiente).csproj": {}
   },
   "projects": {
-    "C:\\Users\\B15S301est\\Documents\\FundamentosProgramacion8AM\\3.(NombrePendiente)\\3.(NombrePendiente)\\3.(NombrePendiente).csproj": {
+    "C:\\Users\\B09S305est\\Documents\\FundamentosProgramacion8AM\\3.Condicionales\\3.(NombrePendiente)\\3.(NombrePendiente).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\B15S301est\\Documents\\FundamentosProgramacion8AM\\3.(NombrePendiente)\\3.(NombrePendiente)\\3.(NombrePendiente).csproj",
+        "projectUniqueName": "C:\\Users\\B09S305est\\Documents\\FundamentosProgramacion8AM\\3.Condicionales\\3.(NombrePendiente)\\3.(NombrePendiente).csproj",
         "projectName": "3.(NombrePendiente)",
-        "projectPath": "C:\\Users\\B15S301est\\Documents\\FundamentosProgramacion8AM\\3.(NombrePendiente)\\3.(NombrePendiente)\\3.(NombrePendiente).csproj",
-        "packagesPath": "C:\\Users\\B15S301est\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\B15S301est\\Documents\\FundamentosProgramacion8AM\\3.(NombrePendiente)\\3.(NombrePendiente)\\obj\\",
+        "projectPath": "C:\\Users\\B09S305est\\Documents\\FundamentosProgramacion8AM\\3.Condicionales\\3.(NombrePendiente)\\3.(NombrePendiente).csproj",
+        "packagesPath": "C:\\Users\\B09S305est\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\B09S305est\\Documents\\FundamentosProgramacion8AM\\3.Condicionales\\3.(NombrePendiente)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\B15S301est\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\B09S305est\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
