@@ -1,0 +1,15 @@
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\obj\Debug\net8.0\7.OperadorTerniario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\obj\Debug\net8.0\7.OperadorTerniario.AssemblyInfoInputs.cache
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\obj\Debug\net8.0\7.OperadorTerniario.AssemblyInfo.cs
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\obj\Debug\net8.0\7.OperadorTerniario.csproj.CoreCompileInputs.cache
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\obj\Debug\net8.0\7.OperadorTerniario.sourcelink.json
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\bin\Debug\net8.0\7.OperadorTerniario.exe
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\bin\Debug\net8.0\7.OperadorTerniario.deps.json
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\bin\Debug\net8.0\7.OperadorTerniario.runtimeconfig.json
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\bin\Debug\net8.0\7.OperadorTerniario.dll
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\bin\Debug\net8.0\7.OperadorTerniario.pdb
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\obj\Debug\net8.0\7.OperadorTerniario.dll
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\obj\Debug\net8.0\refint\7.OperadorTerniario.dll
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\obj\Debug\net8.0\7.OperadorTerniario.pdb
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\obj\Debug\net8.0\7.OperadorTerniario.genruntimeconfig.cache
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\7.OperadorTerniario\7.OperadorTerniario\obj\Debug\net8.0\ref\7.OperadorTerniario.dll
