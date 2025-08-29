@@ -1,0 +1,15 @@
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\bin\Debug\net8.0\9.CicloWHILE.exe
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\bin\Debug\net8.0\9.CicloWHILE.deps.json
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\bin\Debug\net8.0\9.CicloWHILE.runtimeconfig.json
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\bin\Debug\net8.0\9.CicloWHILE.dll
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\bin\Debug\net8.0\9.CicloWHILE.pdb
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\obj\Debug\net8.0\9.CicloWHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\obj\Debug\net8.0\9.CicloWHILE.AssemblyInfoInputs.cache
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\obj\Debug\net8.0\9.CicloWHILE.AssemblyInfo.cs
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\obj\Debug\net8.0\9.CicloWHILE.csproj.CoreCompileInputs.cache
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\obj\Debug\net8.0\9.CicloWHILE.sourcelink.json
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\obj\Debug\net8.0\9.CicloWHILE.dll
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\obj\Debug\net8.0\refint\9.CicloWHILE.dll
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\obj\Debug\net8.0\9.CicloWHILE.pdb
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\obj\Debug\net8.0\9.CicloWHILE.genruntimeconfig.cache
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\9.CicloWHILE\9.CicloWHILE\obj\Debug\net8.0\ref\9.CicloWHILE.dll
