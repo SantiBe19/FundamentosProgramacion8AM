@@ -1,0 +1,15 @@
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\bin\Debug\net8.0\26.Matrices.exe
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\bin\Debug\net8.0\26.Matrices.deps.json
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\bin\Debug\net8.0\26.Matrices.runtimeconfig.json
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\bin\Debug\net8.0\26.Matrices.dll
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\bin\Debug\net8.0\26.Matrices.pdb
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\obj\Debug\net8.0\26.Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\obj\Debug\net8.0\26.Matrices.AssemblyInfoInputs.cache
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\obj\Debug\net8.0\26.Matrices.AssemblyInfo.cs
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\obj\Debug\net8.0\26.Matrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\obj\Debug\net8.0\26.Matrices.sourcelink.json
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\obj\Debug\net8.0\26.Matrices.dll
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\obj\Debug\net8.0\refint\26.Matrices.dll
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\obj\Debug\net8.0\26.Matrices.pdb
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\obj\Debug\net8.0\26.Matrices.genruntimeconfig.cache
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\26.Matrices\26.Matrices\obj\Debug\net8.0\ref\26.Matrices.dll
