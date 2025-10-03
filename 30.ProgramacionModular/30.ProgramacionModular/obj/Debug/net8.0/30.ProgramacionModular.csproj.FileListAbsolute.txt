@@ -1,0 +1,15 @@
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\bin\Debug\net8.0\30.ProgramacionModular.exe
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\bin\Debug\net8.0\30.ProgramacionModular.deps.json
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\bin\Debug\net8.0\30.ProgramacionModular.runtimeconfig.json
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\bin\Debug\net8.0\30.ProgramacionModular.dll
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\bin\Debug\net8.0\30.ProgramacionModular.pdb
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\obj\Debug\net8.0\30.ProgramacionModular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\obj\Debug\net8.0\30.ProgramacionModular.AssemblyInfoInputs.cache
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\obj\Debug\net8.0\30.ProgramacionModular.AssemblyInfo.cs
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\obj\Debug\net8.0\30.ProgramacionModular.csproj.CoreCompileInputs.cache
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\obj\Debug\net8.0\30.ProgramacionModular.sourcelink.json
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\obj\Debug\net8.0\30.ProgramacionModular.dll
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\obj\Debug\net8.0\refint\30.ProgramacionModular.dll
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\obj\Debug\net8.0\30.ProgramacionModular.pdb
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\obj\Debug\net8.0\30.ProgramacionModular.genruntimeconfig.cache
+C:\Users\B09S113est\Documents\FundamentosProgramacion8AM\30.ProgramacionModular\30.ProgramacionModular\obj\Debug\net8.0\ref\30.ProgramacionModular.dll
