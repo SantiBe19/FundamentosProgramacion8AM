@@ -1,0 +1,15 @@
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\bin\Debug\net8.0\ParcialArreglos(3).exe
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\bin\Debug\net8.0\ParcialArreglos(3).deps.json
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\bin\Debug\net8.0\ParcialArreglos(3).runtimeconfig.json
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\bin\Debug\net8.0\ParcialArreglos(3).dll
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\bin\Debug\net8.0\ParcialArreglos(3).pdb
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\obj\Debug\net8.0\ParcialArreglos(3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\obj\Debug\net8.0\ParcialArreglos(3).AssemblyInfoInputs.cache
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\obj\Debug\net8.0\ParcialArreglos(3).AssemblyInfo.cs
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\obj\Debug\net8.0\ParcialArreglos(3).csproj.CoreCompileInputs.cache
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\obj\Debug\net8.0\ParcialArreglos(3).sourcelink.json
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\obj\Debug\net8.0\ParcialArreglos(3).dll
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\obj\Debug\net8.0\refint\ParcialArreglos(3).dll
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\obj\Debug\net8.0\ParcialArreglos(3).pdb
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\obj\Debug\net8.0\ParcialArreglos(3).genruntimeconfig.cache
+C:\Users\B09S305est\Documents\FundamentosProgramacion8AM\ParcialArreglos(3)\ParcialArreglos(3)\obj\Debug\net8.0\ref\ParcialArreglos(3).dll
