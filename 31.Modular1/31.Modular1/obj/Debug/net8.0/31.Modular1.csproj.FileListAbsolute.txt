@@ -1,0 +1,15 @@
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\bin\Debug\net8.0\31.Modular1.exe
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\bin\Debug\net8.0\31.Modular1.deps.json
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\bin\Debug\net8.0\31.Modular1.runtimeconfig.json
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\bin\Debug\net8.0\31.Modular1.dll
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\bin\Debug\net8.0\31.Modular1.pdb
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\obj\Debug\net8.0\31.Modular1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\obj\Debug\net8.0\31.Modular1.AssemblyInfoInputs.cache
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\obj\Debug\net8.0\31.Modular1.AssemblyInfo.cs
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\obj\Debug\net8.0\31.Modular1.csproj.CoreCompileInputs.cache
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\obj\Debug\net8.0\31.Modular1.sourcelink.json
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\obj\Debug\net8.0\31.Modular1.dll
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\obj\Debug\net8.0\refint\31.Modular1.dll
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\obj\Debug\net8.0\31.Modular1.pdb
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\obj\Debug\net8.0\31.Modular1.genruntimeconfig.cache
+C:\Users\B15S301est\Documents\FundamentosProgramacion8AM\31.Modular1\31.Modular1\obj\Debug\net8.0\ref\31.Modular1.dll
