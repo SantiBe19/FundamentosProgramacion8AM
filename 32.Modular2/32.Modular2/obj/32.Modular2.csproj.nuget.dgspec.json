@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\B15S301est\\Documents\\FundamentosProgramacion8AM\\32.Modular2\\32.Modular2\\32.Modular2.csproj": {}
+    "C:\\Users\\B09S206est\\Documents\\FundamentosProgramacion8AM\\32.Modular2\\32.Modular2\\32.Modular2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\B15S301est\\Documents\\FundamentosProgramacion8AM\\32.Modular2\\32.Modular2\\32.Modular2.csproj": {
+    "C:\\Users\\B09S206est\\Documents\\FundamentosProgramacion8AM\\32.Modular2\\32.Modular2\\32.Modular2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\B15S301est\\Documents\\FundamentosProgramacion8AM\\32.Modular2\\32.Modular2\\32.Modular2.csproj",
+        "projectUniqueName": "C:\\Users\\B09S206est\\Documents\\FundamentosProgramacion8AM\\32.Modular2\\32.Modular2\\32.Modular2.csproj",
         "projectName": "32.Modular2",
-        "projectPath": "C:\\Users\\B15S301est\\Documents\\FundamentosProgramacion8AM\\32.Modular2\\32.Modular2\\32.Modular2.csproj",
-        "packagesPath": "C:\\Users\\B15S301est\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\B15S301est\\Documents\\FundamentosProgramacion8AM\\32.Modular2\\32.Modular2\\obj\\",
+        "projectPath": "C:\\Users\\B09S206est\\Documents\\FundamentosProgramacion8AM\\32.Modular2\\32.Modular2\\32.Modular2.csproj",
+        "packagesPath": "C:\\Users\\B09S206est\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\B09S206est\\Documents\\FundamentosProgramacion8AM\\32.Modular2\\32.Modular2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\B15S301est\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\B09S206est\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
