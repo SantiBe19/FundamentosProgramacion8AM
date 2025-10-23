@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TallerProgramaciónModular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a69e5368e6e3de218cb285290c8e2581b3e4bb4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43b8446b0c3c186b490ddac542fb0ffa9b2bba3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TallerProgramaciónModular")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TallerProgramaciónModular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
